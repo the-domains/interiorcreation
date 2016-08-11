@@ -1,6 +1,11 @@
 name: interiorcreation
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/869ca70b-ff46-4044-b8ae-07ce496dffc6.jpg
 layout_spectrum: 0.800103908230666
 typography_spectrum: 0.46153176333657286
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#DC3522'
@@ -12,3 +17,10 @@ color:
   lightness: 0.7236853856895862
   saturation: 0.6458467450016865
   rhythmicContrast: 0.44990327068536573
+title: ''
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
