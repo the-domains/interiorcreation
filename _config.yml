@@ -1,0 +1,14 @@
+name: interiorcreation
+layout_spectrum: 0.800103908230666
+typography_spectrum: 0.46153176333657286
+color:
+  brandColors:
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+  brandStrength: 0.4394658188100101
+  lightness: 0.7236853856895862
+  saturation: 0.6458467450016865
+  rhythmicContrast: 0.44990327068536573
