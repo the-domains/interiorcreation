@@ -1,22 +1,22 @@
 name: interiorcreation
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/869ca70b-ff46-4044-b8ae-07ce496dffc6.jpg
-layout_spectrum: 0.800103908230666
-typography_spectrum: 0.46153176333657286
+layout_spectrum: 0.2578663737513125
+typography_spectrum: 0.16739489091560245
 opengraph:
   type: ''
   appId: ''
 color:
   brandColors:
-    - '#DC3522'
-    - '#D9CB9E'
-    - '#374140'
-    - '#2A2C2B'
-    - '#1E1E20'
-  brandStrength: 0.4394658188100101
-  lightness: 0.7236853856895862
-  saturation: 0.6458467450016865
-  rhythmicContrast: 0.44990327068536573
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+  brandStrength: 0.25167480669915676
+  lightness: 0.5585878477431834
+  saturation: 0.2394323532935232
+  rhythmicContrast: 0.998319205828011
 title: ''
 author:
   name: ''
