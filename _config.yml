@@ -1,11 +1,5 @@
-name: interiorcreation
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/869ca70b-ff46-4044-b8ae-07ce496dffc6.jpg
-layout_spectrum: 0.10193886351771653
-typography_spectrum: 0.16739489091560245
-opengraph:
-  type: ''
-  appId: ''
+layout_spectrum: 0.17144466005265713
+typography_spectrum: 0.17059726850129664
 color:
   brandColors:
     - '#2F2933'
@@ -13,10 +7,18 @@ color:
     - '#29D9C2'
     - '#BDF271'
     - '#FFFFA6'
-  brandStrength: 0.7149378024041653
-  lightness: 0.3977084052748978
-  saturation: 0.8192461007274687
-  rhythmicContrast: 0.0856713259126991
+  brandStrength: 0.8436749880202115
+  lightness: 0.483842387329787
+  saturation: 0.8843058086931705
+  rhythmicContrast: 0.9287403663620353
+coverPrefs:
+  filter: false
+name: interiorcreation
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/869ca70b-ff46-4044-b8ae-07ce496dffc6.jpg
+opengraph:
+  type: ''
+  appId: ''
 title: ''
 author:
   name: ''
@@ -24,5 +26,3 @@ author:
   email: ''
 content_rating:
   adult: false
-coverPrefs:
-  filter: false
